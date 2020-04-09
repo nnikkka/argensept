@@ -44,7 +44,6 @@
 			padding: 2%;
 			background-color: #a7b1c2;
 			text-align: justify;
-			text-rendering: geometricPrecision;
 		}
 		html{
 			scroll-behavior: smooth;
