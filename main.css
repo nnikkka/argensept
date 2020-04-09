@@ -1,0 +1,43 @@
+.container0{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .container0 > div {
+      margin: 0%;
+      padding-top: 1%;
+      font-family: monospace;
+      font-size: 20px;
+      color: #000000;
+      margin-bottom: 20px;
+    } 
+    .container4{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .container4 > div {
+      margin: 60px;
+      padding: 20px;
+      width: 290px;
+      font-family: monospace;
+      color: orange;
+      margin-bottom: 250px;
+    }
+    .container10{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .container10 > div {
+      margin: 20px;
+      padding: 20px;
+      width: 290px;
+    }
+    html{
+      scroll-behavior: smooth;
+    }
+    .center{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    A {text-decoration: none;}
