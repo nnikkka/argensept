@@ -12,17 +12,17 @@
 		}
 		.container1{
 			background-color: grey;
-			padding-top:  20px;
-			padding-bottom: 20px;
+			padding-top:  1%;
+			padding-bottom: 1%;
 		}
 		.container4{
 			display: flex;
 			flex-wrap: wrap;
 		}
 		.container4 > div {
-			margin: 60px;
-			padding: 20px;
-			width: 290px;
+			margin: 1%;
+			padding: 1%;
+			width: 20%;
 			font-family: monospace;
 			color: #ffbf00;
 			margin-bottom: 250px;
@@ -32,11 +32,19 @@
 			flex-wrap: wrap;
 		}
 		.container10 > div {
-			margin: 20px;
-			padding: 20px;
-			width: 290px;
+			margin: 1%;
+			padding: 1%;
+			width: 20%;
 			font-family: monospace;
 			color: orange;
+		}
+		.containerAbout{
+			margin-top: 10%;
+			margin-bottom: 10%;
+			padding: 2%;
+			background-color: #a7b1c2;
+			text-align: justify;
+			text-rendering: geometricPrecision;
 		}
 		html{
 			scroll-behavior: smooth;
