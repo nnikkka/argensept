@@ -16,17 +16,19 @@
 			padding-bottom: 1%;
 		}
 		.container4{
-			display: flex;
-			flex-wrap: wrap;
-		}
-		.container4 > div {
-			margin: 1%;
-			padding: 1%;
-			width: 20%;
-			font-family: monospace;
-			color: #ffbf00;
-			margin-bottom: 250px;
-		}
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-bottom: 25rem;
+	margin-top: 250rem;
+}
+.container4 > div {
+	margin: 1rem;
+	padding: 1rem;
+	flex-basis: 15rem;
+	font-family: monospace;
+	color: #000000;
+}
 		.container10{
 			display: flex;
 			flex-wrap: wrap;
